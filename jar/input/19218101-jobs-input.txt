@@ -1,0 +1,7 @@
+arrivalTime,name,codes,priority
+5,job_0,20,9
+10,job_1,25,1
+11,job_2,15,4
+11,job_3,5,3
+15,job_4,10,8
+20,job_5,8,4
